@@ -1,0 +1,2 @@
+# Aprendizados da semana
+Essa semana aprendi como usar o terminal e utilizar o git e Github e com isso aprendemos como combinar a utilização das duas ferramentas e como é importante manter **atenção** e **conhecimento** dos comandos utilizados que são diversos porque senão você terá muito trabalho para gerenciar os projetos.
