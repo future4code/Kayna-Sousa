@@ -1,0 +1,52 @@
+// exercicio de interpretação
+/*let a = 10
+let b = 10
+console.log(b)
+b=5
+console.log (a,b)
+ O resultado é 10 e 5 */
+
+/* let a = 10
+let b = 20
+let c
+c = a 
+b = c
+a = b 
+
+console.log (a,b,c)
+ 
+A resposta é ( 10,10,10)*/
+
+/*let cargaHora = prompt("quantas horas você trabalha por dia?")
+let salario = prompt("quanto você recebe por dia?")
+
+alert= (`Voce recebe ${salario/cargaHora} por hora`) */
+
+//exercicio de escrita
+/*let nome = prompt("digite seu nome")
+let idade = prompt ("digite sua idade")
+console.log(typeof nome)
+console.log(typeof idade)
+console.log(nome)
+console.log(idade)
+
+Resposta = elas são String */
+
+/*let nome = "Kaynã"
+let idade ="26"
+console.log("Olá", nome ,"você tem ", idade,"anos")*/
+
+/*let regiao = prompt("Você é do norte?")
+let roupa = prompt("Você está com a blusa amarela?")
+let aparelho = prompt("Você tem celular?")
+
+console.log(regiao,roupa,aparelho)*/
+
+/*let a = 10
+let b =25
+let c =b
+b=a
+a=c
+
+console.log( "o novo valor de a é",a)
+console.log("o novo valor de b é",b)*/
