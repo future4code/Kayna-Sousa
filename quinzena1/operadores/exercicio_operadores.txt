@@ -1,0 +1,81 @@
+
+
+// Exercicio de Interpretação
+// Exercicio 1
+
+/*const bool1 = true
+const bool2 = false
+const bool3 = !bool2
+
+let resultado = bool1 && bool2
+console.log("a. ", resultado)
+
+resultado = bool1 && bool2 && bool3 
+console.log("b. ", resultado) 
+
+resultado = !resultado && (bool1 || bool2) 
+console.log("c. ", resultado)
+
+console.log("d. ", typeof resultado)*/
+
+// Resposta: a. false, b. false. c. true e d. boolean
+
+
+// Exercicio 2 e 3 
+
+
+/*let primeiroNumero = Number (prompt("Digite um numero!"))
+let segundoNumero =Number (prompt ("Digite outro numero!"))
+
+const soma = primeiroNumero + segundoNumero
+
+console.log(soma)
+
+A resposta é  a junção dos numeros informados e a soulução fazer o codigo 
+informando que a string a ser usada é do tipo Number.*/
+
+
+
+// Exercicios de Escrita
+
+//Exercicio 1
+
+
+/*const idadeA= Number (prompt("Digite Sua idade"))
+const idadeB= Number (prompt("Digite a idade do seu melhor amigo"))
+
+
+console.log("Sua idade é maior que a do seu melhor amigo,",idadeA > idadeB)
+console.log(idadeA-idadeB)*/
+
+
+//Exercicio 2
+
+
+/*const numeroPar= Number(prompt("Digite um numero par."))
+
+console.log(numeroPar % 2)
+
+Respostas: com numeros pares não tem resto poeis são divisões exatas diferente com 
+as que são de numeros impares.*/
+
+
+
+
+//Exercicio 3
+
+/*const idade= Number(prompt("Qual sua idade?"))
+
+console.log("Você tem",idade * 12,"meses")
+console.log("Você tem",idade * 365,"dias")
+console.log("Você tem",idade * 8760,"horas")*/
+
+// Exercicio 4 
+
+/*const numeroA = Number(prompt("Escolha um numero"))
+const numeroB = Number(prompt("Escolha um numero"))
+
+console.log("O primeiro numero é maior que o segundo numero?",numeroA > numeroB)
+console.log("O primeiro numero é igual ao segundo numero?",numeroA === numeroB)
+console.log("O primeiro numero é divisivel pelo segundo numero?",numeroA % numeroB === 0)
+console.log("O segundo numero é divisivel pelo primeiro numero?",numeroB % numeroA === 0)*/
