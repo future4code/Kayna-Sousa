@@ -1,0 +1,86 @@
+
+// Exercicios de interpretação
+
+// exercicio nº 1
+
+/*let array
+console.log('a. ', array)
+resposta: vai dar a. indefinido
+
+array = null
+console.log('b. ', array)
+resposta: vai dar igual a b. 0
+
+array = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+console.log('c. ', array.length)
+resposta: vai dar c. 11 contando o numero de arrays
+
+let i = 0
+console.log('d. ', array[i])
+resposta: vai dar d. 3 que está na posição 0
+
+array[i+1] = 19
+console.log('e. ', array)
+resposta: vai subistituir na posição 1 o numero 4 pelo 19
+
+const valor = array[i+6]
+console.log('f. ', valor)
+resposta: vai dar a posição 7 que é o numero 9*/
+
+
+// exercicio n 2
+
+/*const frase = prompt("Digite uma frase")
+
+console.log(frase.toUpperCase().replaceAll("A", "I"), frase.length)
+
+resposta: vai deixar a frase tudo em maiusculo e substituir a letra a por i
+e contar quantas letras tem*/
+
+
+// exercicio de escrita
+
+// exercicio n 1
+
+/*const nomeUsuario = prompt("Qual seu nome?")
+const email = prompt("Qual seu email?")
+
+console.log(`O email ${email} foi cadastrado com sucesso. Seja bem vindo ${nomeUsuario}!`)*/
+
+// exercicio n 2
+//a)
+//let comida = ["carne", "frango", "lasanha", "panqueca", "pizza"]
+//console.log(comida)
+
+//b)
+
+/*console.log("Essas são as minhas comidas favoritas:" )
+console.log(comida[0])
+console.log(comida[1])
+console.log(comida[2])
+console.log(comida[3])
+console.log(comida[4])*/
+
+//c)
+
+/*let comidaUsuario = prompt("Qual sua comida favorita?")
+const removeComida = comida.splice(1,1)
+const comidaNova=comida.push(comidaUsuario)
+console.log(comida) */
+
+//exercicio n 3
+
+
+/*let tarefas= []
+let listaDeTarefas = tarefas
+
+ let tarefa1 = prompt("digite sua primeira tarefa a realizar")
+ let tarefa2 = prompt("digite sua segunda tarefa a realizar")
+ let tarefa3 = prompt("digite sua terceira tarefa a realizar")
+const tarefas4 = tarefas.push([tarefa1] , [tarefa2] , [tarefa3])
+//console.log(listaDeTarefas)
+
+const tarefaExecutada= prompt("Digite o indice 0,1 ou 2 para qual tarefa executou")
+const removetarefa = tarefas.splice(tarefaExecutada,1)
+
+console.log(listaDeTarefas)*/
